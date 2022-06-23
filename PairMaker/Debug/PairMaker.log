@@ -1,0 +1,60 @@
+﻿2021/10/19 21:22:50 にビルドを開始しました。
+     1>ノード 2 上のプロジェクト "C:\Users\koyama\Desktop\PairMaker_temp\PairMaker\PairMaker\PairMaker.vcxproj" (build ターゲット)。
+     1>PrepareForBuild:
+         ディレクトリ "C:\Users\koyama\Desktop\PairMaker_temp\PairMaker\Debug\" を作成しています。
+       InitializeBuildStatus:
+         "AlwaysCreate" が指定されたため "Debug\PairMaker.unsuccessfulbuild" を作成しています。
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /I"C:\Program Files\DxLib_VC" /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _MBCS /Gm /EHsc /RTC1 /MT /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt Animset.cpp changescreen.cpp charactorMove.cpp charainit.cpp common.cpp cookieflip.cpp effect.cpp FlipCnt.cpp InitSet.cpp Mixer.cpp number.cpp PlayerFly.cpp playerhitcheck.cpp SelCharaInclude.cpp thunder.cpp upper.cpp timer.cpp WinMain.cpp
+         WinMain.cpp
+         timer.cpp
+         upper.cpp
+         thunder.cpp
+         SelCharaInclude.cpp
+         playerhitcheck.cpp
+         PlayerFly.cpp
+         number.cpp
+         Mixer.cpp
+         InitSet.cpp
+         FlipCnt.cpp
+         effect.cpp
+         cookieflip.cpp
+         common.cpp
+         charainit.cpp
+         charactorMove.cpp
+         changescreen.cpp
+         Animset.cpp
+         コードを生成中...
+     1>c:\users\koyama\desktop\pairmaker_temp\pairmaker\pairmaker\winmain.cpp(1355): warning C4700: 初期化されていないローカル変数 'circleAngle' が使用されます
+       ResourceCompile:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /l"0x0409" /nologo /fo"Debug\iconname.res" ..\Data\iconname.rc 
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\koyama\Desktop\PairMaker_temp\PairMaker\Debug\PairMaker.exe" /INCREMENTAL:NO /NOLOGO /LIBPATH:"C:\Program Files\DxLib_VC" kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST:NO /DEBUG /PDB:"C:\Users\koyama\Desktop\PairMaker_temp\PairMaker\Debug\PairMaker.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\koyama\Desktop\PairMaker_temp\PairMaker\Debug\PairMaker.lib" /MACHINE:X86 Debug\iconname.res
+         Debug\Animset.obj
+         Debug\changescreen.obj
+         Debug\charactorMove.obj
+         Debug\charainit.obj
+         Debug\common.obj
+         Debug\cookieflip.obj
+         Debug\effect.obj
+         Debug\FlipCnt.obj
+         Debug\InitSet.obj
+         Debug\Mixer.obj
+         Debug\number.obj
+         Debug\PlayerFly.obj
+         Debug\playerhitcheck.obj
+         Debug\SelCharaInclude.obj
+         Debug\thunder.obj
+         Debug\upper.obj
+         Debug\timer.obj
+         Debug\WinMain.obj
+     1>Animset.obj : warning LNK4075: /EDITANDCONTINUE は /INCREMENTAL:NO の指定によって無視されます。
+         PairMaker.vcxproj -> C:\Users\koyama\Desktop\PairMaker_temp\PairMaker\Debug\PairMaker.exe
+       FinalizeBuildStatus:
+         ファイル "Debug\PairMaker.unsuccessfulbuild" を削除しています。
+         "Debug\PairMaker.lastbuildstate" のタッチ タスクを実行しています。
+     1>プロジェクト "C:\Users\koyama\Desktop\PairMaker_temp\PairMaker\PairMaker\PairMaker.vcxproj" (build ターゲット) のビルドが完了しました。
+
+ビルドに成功しました。
+
+経過時間 00:00:31.71

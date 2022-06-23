@@ -1,0 +1,19 @@
+﻿2021/10/28 15:58:34 にビルドを開始しました。
+     1>ノード 2 上のプロジェクト "C:\Users\koyama\Desktop\PairMaker_temp\PairMaker\PairMaker\PairMaker.vcxproj" (build ターゲット)。
+     1>InitializeBuildStatus:
+         "AlwaysCreate" が指定されたため "Release\PairMaker.unsuccessfulbuild" を作成しています。
+       ClCompile:
+         すべての出力が最新のものです。
+       ResourceCompile:
+         すべての出力が最新のものです。
+       Link:
+         すべての出力が最新のものです。
+         PairMaker.vcxproj -> C:\Users\koyama\Desktop\PairMaker_temp\PairMaker\Release\PairMaker.exe
+       FinalizeBuildStatus:
+         ファイル "Release\PairMaker.unsuccessfulbuild" を削除しています。
+         "Release\PairMaker.lastbuildstate" のタッチ タスクを実行しています。
+     1>プロジェクト "C:\Users\koyama\Desktop\PairMaker_temp\PairMaker\PairMaker\PairMaker.vcxproj" (build ターゲット) のビルドが完了しました。
+
+ビルドに成功しました。
+
+経過時間 00:00:00.09
